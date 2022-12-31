@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672451828 source:c:\users\dell\desktop\projet_nv_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet.h"
+
+1672454421 c:\users\dell\desktop\projet_nv_c\projet.h
+

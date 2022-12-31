@@ -1,0 +1,18 @@
+Vous avez effectue l'Affichage d'Historique .
+Vous avez effectue l'Affichage d'Historique .
+Vous avez effectue l'Affichage du stockage .
+Vous avez effectue l'ajout du produit ID 123 ;aze ;123.000000 ;123 .
+Vous avez effectue l'ajout du produit ID 123 ;fgh ;456.000000 ;456 .
+Vous avez effectue l'ajout du produit ID 789 ;jkl ;789.000000 ;789 .
+Vous avez effectue l'ajout du produit ID 563 ;jkl ;563.000000 ;563 .
+Vous avez effectue l'ajout du produit de l'ID 1 ;a ;1.000000 ;1 .
+Vous avez effectue l'ajout du produit de l'ID 123456 ;ghjklm ;456238.000000 ;852469875 .
+Vous avez effectue l'Affichage du stockage .
+Vous avez effectue l'Affichage d'Historique .
+Vous avez effectuee la suppresion du produit d ID 123456 , son nom ghjklm , le prix 456238.000000 , la quantite 852469875 .
+Vous avez effectue l'Affichage du stockage .
+Vous avez effectue l'Affichage d'Historique .
+
+ Vous avez modifie la quantite de produit jkl ,de ID 563 , par la nouvelle quantite  45872 .
+Vous avez effectue Le recherche du Produit de l'ID 563 .
+Vous avez effectue l'Affichage de description du produit de l'ID 563 ;jkl ;563.000000 ;45872 .
